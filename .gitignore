@@ -2,6 +2,7 @@ bin/
 build/
 target/
 .settings/
+.idea/**
 .metadata
 .classpath
 .project
